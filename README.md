@@ -1,3 +1,3 @@
 # CISE_React
 
-Knock! Knock! Who's there? Oink oink. Oink oink who? Make up your mind—are you a pig, or an owl?!
+[knock-knock joke.txt](https://github.com/Cathy-chuu/CISE_React/files/8221197/knock-knock.joke.txt)
